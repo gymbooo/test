@@ -1,1 +1,1 @@
-echo "# Gymylh" >> README.md
+echo "# Gymylh hehe" >> README.md
